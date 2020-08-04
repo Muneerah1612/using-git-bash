@@ -23,4 +23,5 @@ def calculate():
 calculate()
 
 
- print('Thank you for shopping with us')
+print('Thank you for shopping with us')
+print('We hope to see you soon')
